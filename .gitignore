@@ -1,0 +1,4 @@
+./sim_test/echo/*
+./build
+./core/build/*
+./.vscode/*

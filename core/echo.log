@@ -1,0 +1,8 @@
+2022-09-11 13:52:47.867 /home/zzy/workspace/code/c++/lmp/sim_transport/sim_session.c:168 connect reciver address = 127.0.0.1:16008, state = session_connecting
+2022-09-11 13:52:47.867 /home/zzy/workspace/code/c++/lmp/sim_transport/sim_session.c:151 send SIM_CONNECT to 127.0.0.1:16008
+2022-09-11 13:52:47.867 /home/zzy/workspace/code/c++/lmp/sim_transport/sim_session.c:368 recv SIM_CONNECT from 127.0.0.1:16008
+2022-09-11 13:52:47.869 /home/zzy/workspace/code/c++/lmp/sim_transport/sim_session.c:384 receiver actived!!!
+2022-09-11 13:52:47.869 /home/zzy/workspace/code/c++/lmp/sim_transport/sim_external.c:92 sim_recv_video
+2022-09-11 13:52:47.869 /home/zzy/workspace/code/c++/lmp/sim_transport/sim_session.c:390 send SIM_CONNECT_ACK to 127.0.0.1:16008
+2022-09-11 13:52:47.869 /home/zzy/workspace/code/c++/lmp/sim_transport/sim_session.c:260 sim_session_recv_video
+2022-09-11 13:52:47.869 /home/zzy/workspace/code/c++/lmp/sim_transport/sim_receiver.c:857 sim_receiver_get
